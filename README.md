@@ -1,0 +1,1 @@
+I had created user and customer login in one page by using HTML, CSS and Java Script. In which a sperate pin will be asked in customer login to fill along with mail id and password. It will be displayed when customer login is clicked and when user login is clicked only mail id and password will asked to fill .
